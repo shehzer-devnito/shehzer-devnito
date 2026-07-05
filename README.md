@@ -18,7 +18,7 @@ Next.js + Sanity CMS build.
 **[cannes2026.cognitiv.ai](https://cannes2026.cognitiv.ai)**
 Next.js site.
 
-**Hospital Management System** (`myhealthclinic`)
+**[Hospital Management System](https://app.myhealthclinic.online)** (`myhealthclinic`)
 Modular NestJS backend — patients, appointments, billing, queue, and staff admin modules, 4-tier RBAC, JWT auth, server-side PDF generation. Built solo, deployed via Docker.
 
 **unfeatured.com**
